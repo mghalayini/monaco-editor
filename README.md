@@ -43,7 +43,7 @@ It is recommended to develop against the `dev` version, and in production to use
 
 Create [issues](https://github.com/Microsoft/monaco-editor/issues) in this repository for anything related to the Monaco Editor. Always mention **the version** of the editor when creating issues and **the browser** you're having trouble in. Please search for existing issues to avoid duplicates.
 
-## FAQ
+## Frequently Asked Questions
 
 ❓ **What is the relationship between VS Code and the Monaco Editor?**
 
